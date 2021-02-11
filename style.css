@@ -47,7 +47,7 @@ nav > div{
 }
 .logo {
   float: left;
-  margin: 10px; 
+  margin: 10px 10px 10px 0; 
 }
 .title {
   float: right;
@@ -66,7 +66,7 @@ p.sub-delicious{
   font-family: "BenchNine", sans-serif;
   font-size: 15px;
   position: relative;
-  bottom: 16px;
+  bottom: 19px;
   color: rgb(98, 98, 98);
 }
 
@@ -159,16 +159,16 @@ div.ingredients-left {
   float: left;
   height: 200px;
   width: 300px;
-  margin: 30px 0 0 50px;
+  margin: 26px 0 0 50px;
 }
 div.ingredients-right {
   float: right;
   height: 200px;
   width: 350px;
-  margin: 28px 180px 0 0;
+  margin: 26px 180px 0 0;
 }
 li {
-  margin: 0 0 9px 0;
+  margin: 0 0 11px 0;
   list-style-type: none;
   color: rgb(88, 88, 88);
   font-family: "Pangolin";
@@ -197,11 +197,12 @@ h2 {
   margin: 0 0 10px 15px;
   color: rgb(88, 88, 88);
   font-family: "Merriweather-bold";
+  font-size: 20px;
 }
 p.bio{
   margin: 0 0 0 15px;
   color: rgb(88, 88, 88);
-  width: 500px;
+  width: 570px;;
   font-family: "Merriweather-light";
 }
 div.headshot{
